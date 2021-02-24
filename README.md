@@ -1,4 +1,5 @@
-# [https://github.com/Leofuchs200811/leofuchs200811.github.io/](Leofuchs200811.github.io)
+<a href="leofuchs200811.github.com">My Profile Website</a>
+<a href="https://github.com/Leofuchs200811">My Profile</a>
 # Hi!<br>
 My name is Leonardo;<br>
 I'm a programmer (quite good at Python 3 and a little JavaScript);<br>
