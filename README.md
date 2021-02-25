@@ -1,5 +1,5 @@
-<a href="leofuchs200811.github.com">My Profile Website</a>
-<a href="https://github.com/Leofuchs200811">My Profile</a>
+<a href="leofuchs200811.github.com">My Profile Website</a><br>
+<a href="https://github.com/Leofuchs200811">My Profile</a><br>
 # Hi!<br>
 My name is Leonardo;<br>
 I'm a programmer (quite good at Python 3 and a little JavaScript);<br>
